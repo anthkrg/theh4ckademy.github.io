@@ -203,7 +203,7 @@ Avant de sauter sur les outils les plus sexy, on reste sobre : un bon vieux scan
 nmap -sC -sV -Pn -T4 -p- <IP>
 ```
 
-<p align="center"><a href="../../images/Ledger/nmap_output.png"><img src="../../images/Ledger/nmap_output.png" alt="Nmap output"></a></p>
+<p align="center"><a href="../../images/Ledger/nmap_output.png"><img src="../../images/Ledger/nmap_output.png" alt="Nmap output" width=1500></a></p>
 
 ***
 
