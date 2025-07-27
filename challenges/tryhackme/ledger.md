@@ -18,7 +18,7 @@ Before jumping into the flashy tools, we keep it classic: a good old Nmap scan t
 nmap -sC -sV -Pn -T4 -p- <IP>
 ```
 
-<p align="center"><a href="../../images/Ledger/nmap_output.png"><img src="../../images/Ledger/nmap_output.png" alt="Nmap output" data-size="original"></a></p>
+<p align="center"><a href="../../images/Ledger/nmap_output.png"><img src="../../images/Ledger/nmap_output.png" alt="Nmap output" width=1500></a></p>
 
 ***
 
